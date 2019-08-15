@@ -1,8 +1,4 @@
 # SmartWallet
-Bennett Lawrenz CWID: 889955969
-Stephen Shinn   CWID: 806144622
-jiacheng Li     CWID: 888860020
-Rushiraj Jadeja CWID: 893283366
-Samarth Shah    CWID: 893514976
+Add your expenses by signing in with google and keep track of your spending on daily basis ->
 
 Smart Wallet Url :https://smartwallet-6cf71.firebaseapp.com/
